@@ -5,3 +5,8 @@ description: "use an external API to retrieve and display a joke"
 runs:
   using: "node16"
   main: "main.js"
+
+git add action.yml
+git commit -m 'create action.yml'
+git pull
+git push
